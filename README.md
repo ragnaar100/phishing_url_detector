@@ -66,7 +66,7 @@ The app will open in your browser at `http://localhost:8501`
 ## 📁 Project structure
 phishing-detector/
 ├── app.py                          # Streamlit web application
-├── training_notebook.ipynb         # Model training code (Colab)
+├── training_notebook.py        # Model training code (Colab)
 ├── phishing_detector_model.pkl     # Trained Random Forest model
 ├── feature_columns.pkl             # Feature order for prediction
 ├── model_info.pkl                  # Model metadata
